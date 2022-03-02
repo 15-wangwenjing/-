@@ -1,0 +1,9 @@
+<html>
+<head></head>
+<title></title>
+<body>
+<?php
+echo 王文璟的PHP世界
+?>
+</body>
+</html>
